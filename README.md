@@ -1,2 +1,2 @@
 # TKinter
-Some I tried To Learn Tkinter
+Some Exapmle Of Tkinter 
